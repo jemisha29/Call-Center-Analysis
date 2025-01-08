@@ -3,14 +3,14 @@ This project involves a comprehensive analysis of call center data to identify k
 
 ## Dataset Structure
 The dataset for this project was organized into Excel data warehouse that store sales data information.
-  - [Call center data :](https://github.com/jemisha29/Amazon-Sales-data-Analysis/blob/main/Amazon%20Sales%20data.csv) Contain information about orders date, item type, unit price, cost price, region etc.
+  - [Call center data :](https://github.com/jemisha29/Call-Center-Analysis/blob/main/Call_Center_Dataset.xlsx) Contain information about call id, agent, date, talk duration etc.
 
 ## Tools
 
   * **Excel** - Data Cleaning & Data Analysis
   * **PowerBI** - Creating dashboard
 
-  Power BI Dashboard : [here](https://github.com/jemisha29/Amazon-Sales-data-Analysis/blob/main/Amazon%20Sales%20dashboard.pbix)
+  Power BI Dashboard : [here](https://github.com/jemisha29/Call-Center-Analysis/blob/main/call%20center%20dashboard.pbix)
   
 ## Analysis 
 ### KPI's
