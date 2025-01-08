@@ -1,4 +1,4 @@
-# Call-Center-Analysis
+# Call-Center-Performance-Analysis-Dashboard
 This project involves a comprehensive analysis of call center data to identify key performance metrics, uncover trends, and derive actionable insights. The analysis focuses on factors such as rejection rate, response times, customer satisfaction, and agent performance. By visualizing these metrics, this project provides valuable insights to improve operational efficiency and customer service quality.
 
 ## Dataset Structure
