@@ -30,10 +30,10 @@ The dataset for this project was organized into Excel data warehouse that store 
 ### Dashboard Link : [https://app.powerbi.com/groups/me/reports/84dda7c5-5a02-41a6-a33b-70278be6c204/64effd4ec6df62bfc77c?experience=power-bi]
 
 Overall Metrix
-![all](https://github.com/user-attachments/assets/ef2fdc96-02f2-4568-b8f5-7389fdb0e8ce)
+![r1](https://github.com/user-attachments/assets/43184490-c65f-47f9-86d1-6ecf398ee98a)
 
 Agent Report
-![sales trend](https://github.com/user-attachments/assets/92d3ae17-c5d8-49da-97eb-29ecd0537d36)
+![r2](https://github.com/user-attachments/assets/985df74d-c6d5-4a2d-8995-12a099fac7f6)
 
 ## Insights
 These insights are based on data that includes all years. If a specific year is selected, the results will adjust to reflect the data relevant to the selected year.
