@@ -27,7 +27,6 @@ The dataset for this project was organized into Excel data warehouse that store 
   4. Total Calls and average satisfaction rating per topic
   5. Total calls answeredby agents
   6. Calls by hour
-### Dashboard Link : [https://app.powerbi.com/groups/me/reports/84dda7c5-5a02-41a6-a33b-70278be6c204/64effd4ec6df62bfc77c?experience=power-bi]
 
 Overall Metrix
 ![r1](https://github.com/user-attachments/assets/43184490-c65f-47f9-86d1-6ecf398ee98a)
